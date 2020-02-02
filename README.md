@@ -11,3 +11,6 @@ The Material Design of our app makes it easier for you to view, save, and manage
 Password E-Safe provides an additional features in which you can back up your data on your device so that it can be restored after re-installation.
 
 Please feel free to clone the project and contribute to it.
+
+
+You can download and install Password E-Safe from Google Play Store (here)[https://play.google.com/store/apps/details?id=com.clapsforapps.password_e_safe]
