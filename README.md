@@ -13,4 +13,4 @@ Password E-Safe provides an additional features in which you can back up your da
 Please feel free to clone the project and contribute to it.
 
 
-You can download and install Password E-Safe from Google Play Store (here)[https://play.google.com/store/apps/details?id=com.clapsforapps.password_e_safe]
+You can download and install Password E-Safe from Google Play Store [here](https://play.google.com/store/apps/details?id=com.clapsforapps.password_e_safe)
